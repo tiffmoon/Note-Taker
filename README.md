@@ -53,4 +53,6 @@ The user can perform 3 different functions on this page:
 
 * Display existing notes from the notes bar - clicking on the notes will display the selected note.
 
+## Link to App
 
+https://note-taker-tiff-moon.herokuapp.com/
